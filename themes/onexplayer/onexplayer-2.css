@@ -1,7 +1,7 @@
 :root {
-    --onexplayer-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/home.svg");
-    --onexplayer-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
-    --onexplayer-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
+    --onexplayer-guide-img-content: url("/themes_custom/handheld-controller-glyphs-sk/assets/onexplayer/home.svg");
+    --onexplayer-view-img-content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/view.svg");
+    --onexplayer-menu-img-content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/menu.svg");
 }
 
 /* Controller Image */
@@ -9,7 +9,7 @@
 .controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_xboxelite .controllerconfiguratorsummary_BackgroundController_rlz-U {
-    background-image: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/2/controller.svg");
+    background-image: url("/themes_custom/handheld-controller-glyphs-sk/assets/onexplayer/2/controller.svg");
 }
 
 /* Controller Image - Steam Hori Controller */
@@ -17,7 +17,7 @@
     display: none;
 }
 .controller_hori_steam ._3R2kU_aL39-YxgB3TuRgYc {
-    background: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/2/controller.svg") center no-repeat;
+    background: url("/themes_custom/handheld-controller-glyphs-sk/assets/onexplayer/2/controller.svg") center no-repeat;
     background-size: contain;
 }
 
@@ -59,18 +59,18 @@ img[src="/steaminputglyphs/sd_button_menu.svg"] {
 img[src="/steaminputglyphs/xbox_p3.svg"],
 img[src="/steaminputglyphs/ps_lfn.svg"],
 img[src="/steaminputglyphs/hp_l4.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/m1.svg");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/m1.svg");
 }
 img[src="/steaminputglyphs/xbox_p1.svg"],
 img[src="/steaminputglyphs/ps_rfn.svg"],
 img[src="/steaminputglyphs/hp_r4.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/m2.svg");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/m2.svg");
 }
 
 /* Controller Settings */
 img[src="/images/steamdeck_left.png"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/2/controller-left.png");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/onexplayer/2/controller-left.png");
 }
 img[src="/images/steamdeck_right.png"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/2/controller-right.png");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/onexplayer/2/controller-right.png");
 }

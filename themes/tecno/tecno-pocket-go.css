@@ -1,7 +1,7 @@
 :root {
-    --tecno-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/input.svg");
-    --tecno-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
-    --tecno-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
+    --tecno-guide-img-content: url("/themes_custom/handheld-controller-glyphs-sk/assets/tecno/pocket-go/input.svg");
+    --tecno-view-img-content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/view.svg");
+    --tecno-menu-img-content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/menu.svg");
 }
 
 /* Controller Image */
@@ -9,7 +9,7 @@
 .controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_xboxelite .controllerconfiguratorsummary_BackgroundController_rlz-U {
-    background-image: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/controller.svg");
+    background-image: url("/themes_custom/handheld-controller-glyphs-sk/assets/tecno/pocket-go/controller.svg");
 }
 
 /* Controller Image - Steam Hori Controller */
@@ -17,7 +17,7 @@
     display: none;
 }
 .controller_hori_steam ._3R2kU_aL39-YxgB3TuRgYc {
-    background: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/controller.svg") center no-repeat;
+    background: url("/themes_custom/handheld-controller-glyphs-sk/assets/tecno/pocket-go/controller.svg") center no-repeat;
     background-size: contain;
 }
 
@@ -57,8 +57,8 @@ img[src="/steaminputglyphs/sd_button_menu.svg"] {
 
 /* Controller Settings */
 img[src="/images/steamdeck_left.png"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/controller-left.png");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/tecno/pocket-go/controller-left.png");
 }
 img[src="/images/steamdeck_right.png"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/controller-right.png");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/tecno/pocket-go/controller-right.png");
 }

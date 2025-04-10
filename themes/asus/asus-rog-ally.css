@@ -1,7 +1,7 @@
 :root {
-    --rogally-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/command-center.png");
-    --rogally-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
-    --rogally-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
+    --rogally-guide-img-content: url("/themes_custom/handheld-controller-glyphs-sk/assets/asus/rog-ally/command-center.png");
+    --rogally-view-img-content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/view.svg");
+    --rogally-menu-img-content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/menu.svg");
 }
 
 /* Controller Image */
@@ -9,7 +9,7 @@
 .controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_xboxelite .controllerconfiguratorsummary_BackgroundController_rlz-U {
-    background-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/controller.svg");
+    background-image: url("/themes_custom/handheld-controller-glyphs-sk/assets/asus/rog-ally/controller.svg");
 }
 
 /* Controller Image - Steam Hori Controller */
@@ -17,7 +17,7 @@
     display: none;
 }
 .controller_hori_steam ._3R2kU_aL39-YxgB3TuRgYc {
-    background: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/controller.svg") center no-repeat;
+    background: url("/themes_custom/handheld-controller-glyphs-sk/assets/asus/rog-ally/controller.svg") center no-repeat;
     background-size: contain;
 }
 
@@ -59,40 +59,40 @@ img[src="/steaminputglyphs/sd_button_menu.svg"] {
 img[src="/steaminputglyphs/ps_button_x.svg"],
 img[src="/steaminputglyphs/shared_color_button_a.svg"],
 img[src="/steaminputglyphs/shared_button_a.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/a.svg");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/asus/rog-ally/a.svg");
 }
 img[src="/steaminputglyphs/ps_button_circle.svg"],
 img[src="/steaminputglyphs/shared_color_button_b.svg"],
 img[src="/steaminputglyphs/shared_button_b.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/b.svg");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/asus/rog-ally/b.svg");
 }
 img[src="/steaminputglyphs/ps_button_square.svg"],
 img[src="/steaminputglyphs/shared_color_button_x.svg"],
 img[src="/steaminputglyphs/shared_button_x.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/x.svg");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/asus/rog-ally/x.svg");
 }
 img[src="/steaminputglyphs/ps_button_triangle.svg"],
 img[src="/steaminputglyphs/shared_color_button_y.svg"],
 img[src="/steaminputglyphs/shared_button_y.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/y.svg");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/asus/rog-ally/y.svg");
 }
 
 /* Back buttons */
 img[src="/steaminputglyphs/xbox_p3.svg"],
 img[src="/steaminputglyphs/ps_lfn.svg"],
 img[src="/steaminputglyphs/hp_l4.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/m2.svg");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/m2.svg");
 }
 img[src="/steaminputglyphs/xbox_p1.svg"],
 img[src="/steaminputglyphs/ps_rfn.svg"],
 img[src="/steaminputglyphs/hp_r4.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/m1.svg");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/shared/m1.svg");
 }
 
 /* Controller Settings */
 img[src="/images/steamdeck_right.png"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/controller-right.png");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/asus/rog-ally/controller-right.png");
 }
 img[src="/images/steamdeck_left.png"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/controller-left.png");
+    content: url("/themes_custom/handheld-controller-glyphs-sk/assets/asus/rog-ally/controller-left.png");
 }
